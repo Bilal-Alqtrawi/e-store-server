@@ -221,6 +221,56 @@
                 "HDMI 2.1 x 2 / HDMI 2.0 x 2"
             ],
             "stock": 16
+        },
+        {
+            "id": 11,
+            "catId": 2,
+            "title": "Philips Electric Kettle HD9350",
+            "productCode": "PHL-HD9350",
+            "sku": "KTL-PH-HD9350",
+            "image": "philips-kettle.jpeg",
+            "price": 39.99,
+            "description": "1.7L stainless steel kettle with 2200W power, auto shut-off, and boil-dry protection.",
+            "features": [
+                "Smart temperature control via app",
+                "OLED temperature display",
+                "Keep-warm function"
+            ],
+            "rating": 4.5,
+            "stock": 25,
+            "specs": {
+                "dimensions": "Kettle: 250 x 230 x 160 mm (H x W x D) - Boxed: 280 x 250 x 180 mm (H x W x D)"
+            }
+        },
+        {
+            "id": 12,
+            "catId": 2,
+            "title": "Kenwood ZJP01 Electric Kettle",
+            "productCode": "KEN-ZJP01",
+            "sku": "KTL-KEN-ZJP01",
+            "image": "kenwood-kettle.png",
+            "price": 34.50,
+            "description": "1.6L BPA-free plastic kettle with removable filter, water indicators, and 2000W power.",
+            "rating": 4.3,
+            "stock": 40,
+            "specs": {
+                "dimensions": "Kettle: 240 x 220 x 150 mm (H x W x D) - Boxed: 270 x 240 x 170 mm (H x W x D)"
+            }
+        },
+        {
+            "id": 13,
+            "catId": 2,
+            "title": "Xiaomi Mi Smart Kettle Pro",
+            "productCode": "XIA-KETPRO",
+            "sku": "KTL-XIA-KETPRO",
+            "image": "xiaomi-kettle.jpeg",
+            "price": 49.99,
+            "description": "1.5L smart kettle with app control, OLED temperature display, and keep-warm function.",
+            "rating": 4.7,
+            "stock": 18,
+            "specs": {
+                "dimensions": "Kettle: 235 x 204 x 145 mm (H x W x D) - Boxed: 260 x 230 x 170 mm (H x W x D)"
+            }
         }
     ]
 }
